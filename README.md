@@ -1,21 +1,53 @@
-# 💫 About Me:
-# Hi there 👋<br><br>👋 Hi, I’m Vinod Kumar  <br>🎓 B.Tech CSE @ GRIET Hyderabad  <br>💻 Aspiring Software Engineer | MERN Stack Developer  <br><br>👀 I’m interested in Full-Stack Development, Problem Solving, and Open Source  <br>🌱 I’m currently strengthening my DSA skills and building scalable web applications  <br>💞️ I’m looking to collaborate on MERN Stack projects and Open Source contributions  <br><br>🚀 Projects:<br>🔹 Resume Builder – Full-Stack MERN App with AI integration  <br>🔹 ShopSphere – MERN Stack E-Commerce Web Application  <br><br>🧩 Coding Profiles:<br>💻 LeetCode  <br>💻 CodeForces  <br>💻 HackerRank  <br>💼 LinkedIn  <br>📂 GitHub  <br><br>🛠️ Tech Stack:<br>Languages: Java, C++, Python, JavaScript  <br>Web: React.js, Node.js, Express.js, REST APIs  <br>Databases: MongoDB, SQL  <br>Core CS: DSA, OS (Basics), DBMS, System Design (Basics)  <br>Tools: Git, GitHub, VS Code  <br><br>📫 How to reach me:<br>📧 Email: kumarvinod60700@gmail.com  <br>📍 Hyderabad, India  <br><br>😄 Pronouns: He/Him  <br>⚡ Fun fact: I enjoy solving coding problems and building real-world applications that make an impact.<br>
+# 💫 About Me
 
+Hi there 👋  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinod_mamindla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinod-kumar-mamindla) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mamindla Vinod Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarvinod60700@gmail.com) 
+👋 I’m Vinod Kumar  
+🎓 B.Tech CSE @ GRIET Hyderabad  
+💻 Aspiring Software Engineer | MERN Stack Developer  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VINODKUMAR36594&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VINODKUMAR36594&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VINODKUMAR36594&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+👀 Interested in Full-Stack Development, Problem Solving & Open Source  
+🌱 Currently strengthening DSA & building scalable web apps  
+💞️ Open to collaborate on MERN Stack & Open Source projects  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VINODKUMAR36594&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+🔹 **Resume Builder** – MERN + AI integration  
+🔹 **ShopSphere** – Full-Stack E-Commerce (MERN)
+
+---
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/vinod_mamindla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinod-kumar-mamindla)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarvinod60700@gmail.com)
+
+---
+
+## 💻 Tech Stack
+**Languages:** Java • C++ • Python • JavaScript  
+**Frontend:** React.js • Context API  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB • MySQL  
+**Tools:** Git • GitHub • VS Code • Firebase • Vercel • Render  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=VINODKUMAR36594&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VINODKUMAR36594&theme=dark&hide_border=true&layout=compact)
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+📫 **Reach Me:**  
+📧 kumarvinod60700@gmail.com  
+📍 Hyderabad, India  
+
+😄 Pronouns: He/Him  
+⚡ Fun fact: I enjoy coding at night when everything is calm and focused.
